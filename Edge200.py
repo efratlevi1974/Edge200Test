@@ -19,4 +19,6 @@ print(driver.current_url)
 #efrat
 # driver.refresh()
 #
+
+jjjj
 # driver.quit()
